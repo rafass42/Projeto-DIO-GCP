@@ -1,0 +1,12 @@
+As palavras com maior repetição são:
+
+1º the - 4066 resultados
+2º and - 2969 resultados
+3º of  - 2746 resultados
+4º I   - 2719 resultados
+5º to  - 2144 resultados
+6º my  - 1631 resultados
+7º a   - 1394 resultados
+8º ''  - 1186 resultados
+9º in  - 1129 resultados
+10º was- 994 resultados
